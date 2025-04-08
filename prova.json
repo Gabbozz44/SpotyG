@@ -1,5 +1,9 @@
 {
   "name": "Prova",
+	"entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+ ]
   "apps": [
     {
       "name": "Prova",
