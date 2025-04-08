@@ -1,20 +1,25 @@
 {
   "name": "Prova",
+  "identifier": "com.gaboz.prova", 
+  "subtitle": "Una semplice prova", 
+  "website": "https://tuosito.it", 
   "apps": [
     {
       "name": "Prova",
       "bundleIdentifier": "com.spotify.client",
-	  "marketplaceID": "1549027048",
+      "marketplaceID": "1549027048",
       "developerName": "Gaboz",
       "iconURL": "https://s5.ezgif.com/tmp/ezgif-5fc030246d172a.webp",
-	                "width": 512,
-            "height": 512,
+      "width": 512,
+      "height": 512,
       "localizedDescription": "E' una prova",
+      "isFree": true,
+      "minimumAltStoreVersion": "1.7",
       "versions": [
         {
           "version": "9.0.32",
           "buildVersion": "903200638",
-		  "size": 83488729,
+          "size": 83488729,
           "date": "2025-04-08",
           "downloadURL": "https://www.dropbox.com/scl/fi/f34kc03wrwxdfqzy4ivh5/EeveeSpotify-5.9.2-9.0.32.ipa?rlkey=58kn27r95pc2kl8tjl87olfnm&e=1&st=gytoqsaj&dl=1"
         }
