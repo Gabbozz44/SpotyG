@@ -1,0 +1,21 @@
+{
+  "name": "Prova",
+  "apps": [
+    {
+      "name": "Prova",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Gaboz",
+      "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fspotify_174872&psig=AOvVaw1Kr5wKdzVe1mItrZ7JiPLx&ust=1744040308237000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC_kc3ew4wDFQAAAAAdAAAAABAE",
+      "localizedDescription": "E' una prova",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+		  "size": 83488729,
+          "date": "2025-04-08",
+          "downloadURL": "https://limewire.com/d/SerAR#KYrEimBHw4"
+        }
+      ]
+    }
+  ]
+}
