@@ -1,8 +1,8 @@
 {
   "name": "Prova",
-  "identifier": "com.gaboz.prova", 
+  "identifier": "com.gaboz.altstore", 
   "subtitle": "Una semplice prova", 
-  "website": "https://tuosito.it", 
+  "website": "https://github.com/Gabbozz44/SpotyG", 
   "apps": [
     {
       "name": "Prova",
