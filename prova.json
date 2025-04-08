@@ -1,9 +1,5 @@
 {
   "name": "Prova",
-	"entitlements": [
-    "com.apple.security.application-groups",
-    "com.apple.developer.siri"
- ]
   "apps": [
     {
       "name": "Prova",
@@ -14,8 +10,8 @@
       "localizedDescription": "E' una prova",
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "1",
+          "version": "9.0.32",
+          "buildVersion": "903200638",
 		  "size": 83488729,
           "date": "2025-04-08",
           "downloadURL": "https://limewire.com/d/SerAR#KYrEimBHw4"
