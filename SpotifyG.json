@@ -12,11 +12,11 @@
       "versionDate": "2025-04-08",
       "downloadURL": "https://www.dropbox.com/scl/fi/f34kc03wrwxdfqzy4ivh5/EeveeSpotify-5.9.2-9.0.32.ipa?rlkey=58kn27r95pc2kl8tjl87olfnm&dl=1",
       "localizedDescription": "E' una prova",
-      "iconURL": "https://s5.ezgif.com/tmp/ezgif-5fc030246d172a.webp",  // Convertito in PNG
-      "tintColor": "#1DB954",  // Aggiunto colore tema Spotify
+      "iconURL": "https://s5.ezgif.com/tmp/ezgif-5fc030246d172a.webp",  
+      "tintColor": "#1DB954",  
       "size": 83488729,
       "screenshotURLs": [
-        "https://s5.ezgif.com/tmp/ezgif-537a578caa0357.webp"  // Aggiungi almeno uno screenshot
+        "https://s5.ezgif.com/tmp/ezgif-537a578caa0357.webp"  
       ],
       "permissions": [
         {
