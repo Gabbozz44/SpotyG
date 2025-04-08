@@ -1,18 +1,29 @@
 {
-  "name": "SpotyG",
-  "identifier": "com.spotyg.source",
+  "name": "Prova",
+  "identifier": "com.gaboz.altstore",
+  "subtitle": "Una semplice prova",
+  "website": "https://github.com/Gabbozz44/SpotyG",
   "apps": [
     {
-      "name": "SpotyG",
+      "name": "Prova",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "Yo mama",
-      "version": "1.0",
-      "versionDate": "2025-04-06",
-      "downloadURL": "https://limewire.com/d/SerAR#KYrEimBHw4",
-      "localizedDescription": "Descrizione dell'app.",
+      "developerName": "Gaboz",
+      "version": "9.0.32",
+      "versionDate": "2025-04-08",
+      "downloadURL": "https://www.dropbox.com/scl/fi/f34kc03wrwxdfqzy4ivh5/EeveeSpotify-5.9.2-9.0.32.ipa?rlkey=58kn27r95pc2kl8tjl87olfnm&dl=1",
+      "localizedDescription": "E' una prova",
+      "iconURL": "https://s5.ezgif.com/tmp/ezgif-5fc030246d172a.webp",  // Convertito in PNG
+      "tintColor": "#1DB954",  // Aggiunto colore tema Spotify
       "size": 83488729,
-      "marketplaceID": "com.spotify.client.fake",
-      "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fspotify_174872&psig=AOvVaw1Kr5wKdzVe1mItrZ7JiPLx&ust=1744040308237000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC_kc3ew4wDFQAAAAAdAAAAABAE"
+      "screenshotURLs": [
+        "https://s5.ezgif.com/tmp/ezgif-537a578caa0357.webp"  // Aggiungi almeno uno screenshot
+      ],
+      "permissions": [
+        {
+          "type": "music",
+          "usageDescription": "Necessario per riprodurre musica"
+        }
+      ]
     }
   ]
 }
