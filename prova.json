@@ -24,6 +24,15 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/f34kc03wrwxdfqzy4ivh5/EeveeSpotify-5.9.2-9.0.32.ipa?rlkey=58kn27r95pc2kl8tjl87olfnm&e=1&st=gytoqsaj&dl=1"
         }
       ]
+      "screenshotURLs": [
+        "https://s5.ezgif.com/tmp/ezgif-537a578caa0357.webp"  
+      ],
+      "permissions": [
+        {
+          "type": "music",
+          "usageDescription": "Necessario per riprodurre musica"
+        }
+      ]
     }
   ]
 }
